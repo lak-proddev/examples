@@ -1,0 +1,4 @@
+#Bundle ID regex, Resource Path regex, resource path
+org\.eclipse\.ui,icons/full/etool16/save_edit.svg,/save.png
+org\.eclipse\.ui\.ide,icons/full/etool16/newfolder_wiz.svg,/new_wiz.png
+org\.eclipse\.ui\.ide\.application,icons/full/eview16/resource_persp.svg,/resource_persp.png
